@@ -1,0 +1,3 @@
+*.zip
+/chem/model_gin
+/chem/model_architecture
